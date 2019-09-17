@@ -30,7 +30,7 @@ Members are the Aragon Association and Flock teams.
 
 At any time, the Aragon Association makes sure that the Securitas Org is funded with enough DAI to pay for a sizable audit (approx. DAI30K).
 
-Decisions in the Securitas Org follows a consent model. This means that any member in the organization can object against a decision and block it.
+Decisions in the Securitas Org are consent based. Any member can object against a decision and block it.
 
 When under review by the Securitas Org, audit requests will move from the ["AA Prioritization / Review"](https://github.com/aragon/security-review/projects/1#column-5283999) column to the ["Security DAO Voting"](https://github.com/aragon/security-review/projects/1#column-5284002) column and have a corresponding vote posted to the security DAO.
 
