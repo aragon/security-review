@@ -22,19 +22,21 @@ Requests will be moved from the ["New Requests"](https://github.com/aragon/secur
 
 Before proceeding to the next step, the Aragon Association may request an intra-Network audit of an request to gain better clarity over the request's readiness and maturity for (more costly) external review.
 
-### Step 3: Flock Security DAO (TBD: medium term)
+### Step 3: Flock "Securitas" (WIP)
 
-An idea was brought up to create a 1-person, 1-vote DAO including team leaders and lead developers from each Flock team (members TBD).
+The [Flock Securitas Organization](https://mainnet.aragon.org/#/securitas) is a [Membership](https://help.aragon.org/article/34-create-a-new-membership-organization) Aragon Organization.
 
-This DAO could be supplied with funds, corresponding to the Network's security budget for a given quarter, and only grant the Aragon Association (or a delegate) the permission to create votes for transferring these funds.
+Members are the Aragon Association and Flock teams.
 
-At this stage, requests will move from the ["AA Prioritization / Review"](https://github.com/aragon/security-review/projects/1#column-5283999) column to the ["Security DAO Voting"](https://github.com/aragon/security-review/projects/1#column-5284002) column and have a corresponding vote posted to the security DAO.
+At any time, the Aragon Association makes sure that the Securitas Org is funded with enough DAI to pay for a sizable audit (approx. DAI30K).
+
+Decisions in the Securitas Org are consent based. Any member can object against a decision and block it.
+
+When under review by the Securitas Org, audit requests will move from the ["AA Prioritization / Review"](https://github.com/aragon/security-review/projects/1#column-5283999) column to the ["Security DAO Voting"](https://github.com/aragon/security-review/projects/1#column-5284002) column and have a corresponding vote posted to the security DAO.
 
 ### Step 4: External Review
 
-Finally, if the voting passes, funds will be used by the Aragon Association to procure an external review for the desired request.
-
-Requests will move from the ["Security DAO Voting"](https://github.com/aragon/security-review/projects/1#column-5284002) column to the ["External Review"](https://github.com/aragon/security-review/projects/1#column-5284006) column.
+If an audit request is approved by the Securitas Org, it is moved from the ["Security DAO Voting"](https://github.com/aragon/security-review/projects/1#column-5284002) column to the ["External Review"](https://github.com/aragon/security-review/projects/1#column-5284006) column.
 
 Following the external security review, requests are considered complete and will have their issues closed.
 
